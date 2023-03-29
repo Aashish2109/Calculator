@@ -1,22 +1,29 @@
-.text-center{
+.text-center
+{
   text-align: center;
+  background-color: blueviolet;
+  width: 208vh;
+  
 }
-
-.bg-red{
-  background: red;
-}
-
-.mx-auto{
-  margin: auto;
-}
-
-.flex{
+.flex
+{
   display:flex;
-} 
-.flex-col{
+}
+.flex-col
+{
   flex-direction: column;
 }
-
-.items-center{
+.items-center
+{
   align-items: center;
+}
+.mx-auto
+{
+  margin: auto;
+}
+.container
+{
+  background-color: aquamarine;
+  height: 75vh;
+  width:80vh;
 }

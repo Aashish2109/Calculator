@@ -12,16 +12,18 @@ html, body {
   border: 2px solid black;
   border-radius: 9px;
   cursor: pointer;
+  background-color: bisque;
 }
 
 .row{
   margin: 8px 0;
 }
 .row input{
-  width: 291px;
-  font-size: 20px;
+    width: 290px;
+    font-size: 19px;
     margin: 0;
     padding: 10px 0px;
     border: 2px solid black;
     border-radius: 5px;
+    background-color: beige;
 }
